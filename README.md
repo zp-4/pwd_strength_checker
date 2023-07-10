@@ -43,6 +43,15 @@ Entropy is used as a metric to estimate the strength of a password. It calculate
 
 - Weak Passwords Wordlist: If you want to update or modify the wordlist of weak passwords, edit the `weak_passwords.txt` file, adding or removing passwords as needed. Each password should be on a separate line.
 
+## Some weak passwords github repo:
+Here are a few notable ones you can check:
+
+SecLists (https://github.com/danielmiessler/SecLists): SecLists is a collection of multiple security-related lists, including various password lists. It provides a wide range of password patterns and common weak passwords that can be useful for testing and analysis.
+
+Probable-Wordlists (https://github.com/berzerk0/Probable-Wordlists): Probable-Wordlists is a collection of password wordlists and patterns generated from different sources. It includes common passwords, dictionary words, and various permutations that can help identify weak passwords.
+
+Weakpass (https://github.com/Josue87/weakpass): Weakpass is a repository that contains weak password lists categorized by types such as common passwords, leaked passwords, and specific patterns. It can be useful for analyzing weak password usage trends.
+
 ## Contributing
 
 Contributions to the Password Strength Checker script are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.

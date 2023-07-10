@@ -8,7 +8,7 @@ The Password Strength Checker is a Python script that assesses the strength of p
 2. Download the `ps-checker.py` script from this repository.
 3. Open a terminal or command prompt and navigate to the directory where the script is saved.
 4. Run the script using the following command:
-   > ps-checker.py
+   > python ps-checker.py
 5. Follow the prompts to enter the password you want to check.
 6. The script will evaluate the strength of the password and display a recommendation.
 

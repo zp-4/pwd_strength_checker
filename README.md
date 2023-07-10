@@ -33,6 +33,10 @@ The Password Strength Checker is a Python script that assesses the strength of p
 - The script does not store or transmit any passwords. The evaluation is performed locally on your system.
 - The user input for the password is securely handled without displaying it on the screen.
 
+## Entropy
+
+Entropy is used as a metric to estimate the strength of a password. It calculates the information content and randomness of the password based on the character sets used and the password length.
+
 ## Customization
 
 - Weak Patterns: To customize the list of weak patterns, you can modify the `weak_patterns` list in the `is_weak_password()` function.
